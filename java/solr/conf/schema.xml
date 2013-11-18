@@ -774,20 +774,6 @@
     <copyField source="svberp_pf_subject_text____s" dest="ezf_sp_words" />
     <copyField source="svberp_pf_subject_genre____s" dest="ezf_sp_words" />
 
-
-    <!--<copyField source="*_lk" dest="ezf_df_text"/>-->
-    <!--<copyField source="*_k" dest="ezf_df_text"/>-->
-    <!--<copyField source="*_t" dest="ezf_df_text"/>-->
-    <!--<copyField source="*_s" dest="ezf_df_text"/>-->
-    <!--<copyField source="attr_title_s" dest="ezf_df_text" />-->
-    <!--<copyField source="svberp_pf_isbn_s" dest="ezf_df_text" />-->
-    <!--<copyField source="*____s" dest="ezf_sp_words" />-->
-    <!--<copyField source="*_lk" dest="ezf_sp_words"/>-->
-    <!--<copyField source="*_k" dest="ezf_sp_words"/>-->
-    <!--<copyField source="*_t" dest="ezf_sp_words"/>-->
-    <!--<copyField source="*_s" dest="ezf_sp_words"/>-->
-
-
    <!-- Above, multiple source fields are copied to the [text] field.
         Another way to map multiple source fields to the same
         destination field is to use the dynamic field syntax.
