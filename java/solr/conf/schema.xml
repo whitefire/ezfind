@@ -751,28 +751,28 @@
         or to add multiple fields to the same field for easier/faster searching.  -->
 
     <copyField source="svberp_pf_isbn_s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_title_main____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_title_sub____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_original_title_main____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_book_group_text_s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_product_group_text_s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_series_title____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_contributors_name____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_subject_literature_type____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_subject_text____s" dest="ezf_df_text" />
-    <copyField source="svberp_pf_subject_genre____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_title_main_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_title_sub_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_original_title_main_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_book_group_text_lowercase_s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_product_group_text_lowercase_s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_series_title_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_contributors_name_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_subject_literature_type_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_subject_text_lowercase____s" dest="ezf_df_text" />
+    <copyField source="svberp_pf_subject_genre_lowercase____s" dest="ezf_df_text" />
 
     <copyField source="svberp_pf_isbn_s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_title_main____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_title_sub____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_original_title_main____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_book_group_text_s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_product_group_text_s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_series_title____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_contributors_name____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_subject_literature_type____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_subject_text____s" dest="ezf_sp_words" />
-    <copyField source="svberp_pf_subject_genre____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_title_main_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_title_sub_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_original_title_main_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_book_group_text_lowercase_s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_product_group_text_lowercase_s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_series_title_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_contributors_name_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_subject_literature_type_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_subject_text_lowercase____s" dest="ezf_sp_words" />
+    <copyField source="svberp_pf_subject_genre_lowercase____s" dest="ezf_sp_words" />
 
    <!-- Above, multiple source fields are copied to the [text] field.
         Another way to map multiple source fields to the same
