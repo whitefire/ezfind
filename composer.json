@@ -1,15 +1,4 @@
 {
-<<<<<<< HEAD
-    "name": "keyteq/ezfind",
-    "type": "ezpublish-legacy-extension",
-    "description": "Fork of ezfind used to add patches while we wait for them to be part of the official distribution",
-    "license": "GPL-2.0",
-    "minimum-stability": "dev",
-    "require": {
-        "ezsystems/ezpublish-legacy-extension-installer": "*"
-    }
-}
-=======
     "name": "ezsystems/ezfind-ls",
     "description": "eZ Find is a search extension for eZ Publish legacy, providing more functionality and better results than the default search in eZ Publish.",
     "type": "ezpublish-legacy-extension",
@@ -25,4 +14,3 @@
         "ezsystems/ezpublish-legacy-installer": "*"
     }
 }
->>>>>>> 60e9f534b3fb010688158d5c8d56626f464b084a
