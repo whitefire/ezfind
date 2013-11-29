@@ -1130,10 +1130,32 @@
       <str name="defType">edismax</str>
       <float name="tie">0.01</float>
       <str name="qf">
-        ezf_df_text
+          title_main_woss_nor_s title_main_wosu_nor_s^5 title_main_wss_nor_s title_main_wsu_nor_s^5
+          title_sub_woss_nor_s title_sub_wosu_nor_s^2 title_sub_wss_nor_s title_sub_wsu_nor_s^2
+          author_woss_nor_s author_wosu_nor_s^3 author_wss_nor_s author_wsu_nor_s^3
+          isbn_id_numbers^10
+          original_title_woss_nor_s
+          book_group_text_woss_nor_s
+          product_group_text_woss_nor_s
+          series_title_woss_nor_s
+          contributors_name_woss_nor_s
+          subject_literature_type_woss_nor_s
+          subject_text_woss_nor_s
+          subject_genre_woss_nor_s
       </str>
       <str name="pf">
-        ezf_df_text
+          title_main_woss_nor_s title_main_wosu_nor_s^15 title_main_wss_nor_s title_main_wsu_nor_s^15
+          title_sub_woss_nor_s title_sub_wosu_nor_s^6 title_sub_wss_nor_s title_sub_wsu_nor_s^6
+          author_woss_nor_s author_wosu_nor_s^9 author_wss_nor_s author_wsu_nor_s^9
+          isbn_id_numbers^10
+          original_title_woss_nor_s
+          book_group_text_woss_nor_s
+          product_group_text_woss_nor_s
+          series_title_woss_nor_s
+          contributors_name_woss_nor_s
+          subject_literature_type_woss_nor_s
+          subject_text_woss_nor_s
+          subject_genre_woss_nor_s
       </str>
       <str name="bf">
 
