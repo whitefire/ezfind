@@ -902,6 +902,7 @@
     <copyField source="svberp_pf_contributors_readable____s" dest="author_wsu_nor_s" />
 
     <copyField source="svberp_pf_isbn_s" dest="isbn_id_numbers" />
+    <copyField source="svberp_pf_isbn_10_s" dest="isbn_id_numbers" />
 
     <copyField source="svberp_pf_original_title_main____s" dest="original_title_woss_nor_s" />
     <copyField source="svberp_pf_original_title_main____s" dest="original_title_wosu_nor_s" />
